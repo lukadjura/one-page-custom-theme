@@ -1,4 +1,4 @@
-# [BeLikeNow](https://loganduran.github.io/SinglePageWebsite/index.html)
+# [BeLikeNow](https://lukadjura.github.io/SinglePageWebsite/index.html) -  Piercing & Tattoo Studio Website
 
 ![alt text](img/image.png)
 
